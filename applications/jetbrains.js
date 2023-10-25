@@ -1,10 +1,8 @@
 /*
-
 Serenade Custom Commands for JetBrains IDEs (IntelliJ family)
 
 A set of common shortcuts for JetBrains IDEs. Note that the used "intellij" app scope covers
 other IDEs, too (e.g. WebStorm).
-
 */
 
 serenade.app("intellij").key(
